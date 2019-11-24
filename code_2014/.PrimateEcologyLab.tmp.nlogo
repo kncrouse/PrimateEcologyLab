@@ -1073,7 +1073,7 @@ predation-rate
 predation-rate
 0
 1
-0.0
+0.005
 .001
 1
 NIL
@@ -1088,7 +1088,7 @@ predation-duration
 predation-duration
 0
 300
-0.0
+100.0
 10
 1
 NIL
@@ -1103,7 +1103,7 @@ predation-cost
 predation-cost
 0
 100
-0.0
+5.0
 1
 1
 NIL
@@ -1264,7 +1264,6 @@ PENS
 @#$#@#$#@
 ## WHAT IS IT?
 
-
 ## HOW IT WORKS
 
 ## HOW TO USE IT
@@ -1277,15 +1276,19 @@ PENS
 
 ## HOW TO CITE
 
-If you mention this model in a publication, we ask that you include these citations for the model itself and for the NetLogo software:
+If you mention this model in a publication, please include these citations for the model itself and for the NetLogo software:
 
-*
-* Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Center for Connected Learning and Computer-Based Modeling, Northwestern Institute on Complex Systems, Northwestern University, Evanston, IL.
+Crouse, Kristin (2019). “B3GET Classic” (Version 1.0.). CoMSES Computational Model Library. Retrieved from: https://www.comses.net/codebases/7f4e1078-16e7-46ef-827a-cf5fcf903993/releases/1.0.0/
+
+Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Center for Connected Learning and Computer-Based Modeling, Northwestern Institute on Complex Systems, Northwestern University, Evanston, IL.
 
 ## COPYRIGHT AND LICENSE
 
-Copyright 2019 K N Crouse
+© 2019 K N Crouse
 
+The model may be freely used, modified and redistributed provided this copyright is included and the resulting models are not used for profit.
+
+Contact K N Crouse at crou0048@umn.edu if you have questions about its use.
 @#$#@#$#@
 default
 true
