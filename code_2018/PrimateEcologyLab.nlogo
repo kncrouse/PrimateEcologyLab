@@ -20,7 +20,7 @@ primates-own [
   life-stage
   energy
   cycle-tick
-  my-group 
+  my-group
   mother
   father
   chromosomeI
@@ -1414,8 +1414,6 @@ count predators
 11
 
 @#$#@#$#@
-Compatible with NetLogo 6.0.2
-
 ## WHAT IS IT?
 
 This model simulates the behavior of evolved primate agents to test hypotheses in behavioral ecology. Users input genotype files to seed the initial population and run simulations to evolve these populations, and their genotype files, over generation. Strategies that are most beneficial for a given environmental context are expected to emerge.
@@ -1458,11 +1456,11 @@ You can modify genotype files to many different configurations. Explore how INIT
 
 ## HOW TO CITE
 
-Crouse, K. N. (2018).  Behavioral Ecology, Games & Evolutionary Theory model. Evolutionary Anthropology Lab, Department of Anthropology, University of Minnesota, Minneapolis, MN.
+Crouse, Kristin (2019). “B3GET Classic” (Version 3.0.2). CoMSES Computational Model Library. Retrieved from: https://www.comses.net/codebases/7f4e1078-16e7-46ef-827a-cf5fcf903993/releases/3.0.2/
 
 ## COPYRIGHT AND LICENSE
 
-Copyright 2018 K N Crouse
+Copyright 2019 K N Crouse
 @#$#@#$#@
 default
 true
@@ -1513,7 +1511,7 @@ true
 0
 Polygon -7500403 true true 150 30 15 255 285 255
 @#$#@#$#@
-NetLogo 6.0.2
+NetLogo 6.1.1
 @#$#@#$#@
 setup
 set grass? true
